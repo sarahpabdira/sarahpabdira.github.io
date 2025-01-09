@@ -3,11 +3,11 @@
    "how to change link color." */
 
    body {
-    background-color: black;
-    color: green;
+    background-color: #330033;
+    color: whitesmoke;
     font-family: "Lucida Console", "Courier New", courier, monospace;
   }
   
   hr {
-    border: 2px solid green;
+    border: 2px solid whitesmoke;
   }
