@@ -1,0 +1,120 @@
+Coisas para lembrar:
+--- --- ---
+
+### Anotar: Links
+
+    https://github.com/gustavoguanabara
+    https://gustavoguanabara.github.io
+
+    Mozilla Developer Network
+    W3C Standards
+    WHATWG Living Standard
+    W3Schools
+
+--- --- ---
+
+### Anotar: Conceitos
+
+    HTTP  (Hypertext Transfer Protocol)
+    HTTPS (Hypertext Transfer Protocol Secure)
+    --- ---
+
+    HTML (HyperText Markup Language)
+        Conteúdo
+
+    CSS  (Cascading Style Sheets)
+        Design
+
+    JavaScript 
+        Interações
+
+    --- ---
+
+    UTF-8 (8-bit Unicode Transformation Format)
+        Padrão de codificação de caracteres
+
+    --- ---
+
+    Front-End
+        Client-Side
+        HTML, CSS, JavaScript
+
+    Back-End
+        Server-Side
+        Php, Node (JS), C#, Python, Ruby, Java
+
+    Full-Stack
+        Front-End + Back-End
+
+    --- ---
+
+--- --- ---
+
+### HTML
+
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título</title>
+
+
+
+</head>
+
+
+
+<body>
+
+
+
+    <h1>Texto Título</h1>
+
+    <p>Parágrafo</p>
+
+    <img src="Imagem.png" alt="texto alternativo">
+
+
+
+</body>
+
+
+
+</html>
+
+
+
+--- --- ---
+
+### CSS
+
+h1{
+    font-family: Arial;
+    font-size: 20pt;
+    color: blue;
+}
+
+
+
+
+
+
+
+--- --- ---
+
+### JavaScript
+
+
+
+
+
+
+
+
+
+
+
+
+
