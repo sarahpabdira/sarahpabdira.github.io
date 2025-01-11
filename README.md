@@ -1,2 +1,3 @@
 Este é meu site.
-<bold>teste</bold>
+<br>
+<strong>teste</strong>
