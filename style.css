@@ -1,13 +1,30 @@
 /* CSS is how you can add style to your website, such as colors, fonts, and positioning of your
-   HTML content. To learn how to do something, just try searching Google for questions like
-   "how to change link color." */
+HTML content. To learn how to do something, just try searching Google for questions like
+"how to change link color." */
 
-   body {
+
+body {
     background-color: #330033;
     color: whitesmoke;
     font-family: "Lucida Console", "Courier New", courier, monospace;
-  }
-  
-  hr {
+}
+
+
+hr {
     border: 2px solid whitesmoke;
-  }
+}
+
+
+div {
+    border: solid whitesmoke;
+}
+
+
+header {
+    border: solid black;
+}
+
+
+footer {
+    border: solid black;
+}

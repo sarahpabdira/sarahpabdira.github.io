@@ -72,9 +72,35 @@ Coisas para lembrar:
 
     <h1>Texto Título</h1>
 
-    <p>Parágrafo</p>
+    <hr> (horizontal)
+
+    <p>Parágrafo <br> Quebra de Parágrafo</p>
 
     <img src="Imagem.png" alt="texto alternativo">
+
+    <!--Comentários-->
+
+    <!--HTML Entities:-->
+
+    &nbsp;
+    &lt; = < = less than
+    &gt; = > = greater than
+    &reg;
+    &copy;
+    &trade;
+    &euro;
+    &pound;
+    &yen;
+    &cent;
+    &sum;
+    &delta;
+    &Delta;
+    &empty
+    &uarr; = up arrow
+    &larr; = left arrow
+    &darr; = down arrow
+    &rarr; = right arrow
+    &#x1F98A; = fox emoji = U+1F98A (&#x)
 
 
 
