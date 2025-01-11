@@ -102,7 +102,7 @@ Coisas para lembrar:
     &rarr; = right arrow
     &#x1F98A; = fox emoji = U+1F98A (&#x)
 
-
+    
 
 </body>
 
