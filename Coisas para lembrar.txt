@@ -87,7 +87,7 @@ Coisas para lembrar:
     - add um novo repositorio remoto
 
     git push <nome> <nome-da-branch>
-    - manda nossas alterações locais para o repositório remoto, pra cada bram ww
+    - manda nossas alterações locais para o repositório remoto, pra cada branch
 
     git pull <nome> <nome-da-branch>
     - pega as alterações do repositírio remoto, e joga pra nossa maquina
