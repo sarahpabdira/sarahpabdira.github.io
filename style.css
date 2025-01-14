@@ -4,10 +4,16 @@ HTML content. To learn how to do something, just try searching Google for questi
 
 
 body {
-    background-color: #330033;
+    background-color: #303;
     color: whitesmoke;
     font-family: "Lucida Console", "Courier New", courier, monospace;
 }
+
+main {
+    margin: auto;
+    width: 800px;
+}
+
 
 
 hr {
@@ -16,15 +22,26 @@ hr {
 
 
 div {
-    border: solid whitesmoke;
+    border: solid black;
+    margin: 10px;
+    background-color: #707;
+    padding: 10px;
 }
 
 
 header {
+    background-color: #703;
     border: solid black;
+    margin: auto;
+    width: 1000px;
+    text-align: center;
 }
 
 
 footer {
+    background-color: #307;
     border: solid black;
+    padding: 10px;
+    margin: auto;
+    width: 1000px;
 }
