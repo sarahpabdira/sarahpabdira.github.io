@@ -102,63 +102,119 @@ Coisas para lembrar:
 
 <!DOCTYPE html>
 <html lang="pt-br">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Título</title>
-
-
-
 </head>
-
-
 
 <body>
 
+    Títulos
+
+        <h1>Texto Título 01</h1>
+        <h2>Texto Título 02</h2>
+        <h3>Texto Título 03</h3>
+        <h4>Texto Título 04</h4>
+        <h5>Texto Título 05</h5>
+        <h6>Texto Título 06</h6>
+
+    Básicos
+
+        <p>Parágrafo</p>
+        <br> (break)
+        <hr> (horizontal)    
+
+    Formatações
+
+        <b>sem semântica</b>
+        <strong>com semântica</strong>
+
+        <i>sem semântica</i>
+        <em>com semântica</em>
+
+        <mark>marcador</mark>
+
+        <small>pequeno</small>
+        <del>rasura</del>
+
+        <ins>sublinhado</ins> (semântico)
+        <u>sublinhado</u> (não semântico)
+
+        <sup>texto em cima</sup>
+        <sub>texto em baixo</sub>
+
+        <code>código</code>
+
+        <pre> (preformatado)
+        carrega formatação na linha de código
+        </pre>
+
+        <q>citação</q>
+        <blockquote cite="link">citação maior<blockquote>
+
+        <abbr title="">abreviação</abbr>
+
+        <p><bdo dir="rtl">texto da direita para a esquerda</bdo></p>
+
+    Listas
+
+        <ol> (Ordered List)
+        <li></li> (List Item)
+        </ol>
+        (ol type="" -> 1.; a, A.; i, I. -> start="")
+
+        <ul> (Unordered List)
+        <li> (não é necessário </li>)
+        </ul>
+        (ul type="" -> disc, circle, square)
+
+        <dl> (Description List)
+        <dt>Termo</dt>
+        <dd>Descrição</dd>
+        </dl>
+
+    Links
+
+        <a href="link.com" target="_blank" rel="external">Link</a>
+        (Anchor; HyperText Reference; Alvo em guia vazia; relação externa ao site)
 
 
-    <h1>Texto Título</h1>
 
-    <hr> (horizontal)
 
-    <p>Parágrafo <br> Quebra de Parágrafo</p>
 
     <img src="Imagem.png" alt="texto alternativo">
+
+
+
 
     <!--Comentários-->
 
     <!--HTML Entities:-->
 
-    &nbsp;
-    &lt; = < = less than
-    &gt; = > = greater than
-    &reg;
-    &copy;
-    &trade;
-    &euro;
-    &pound;
-    &yen;
-    &cent;
-    &sum;
-    &delta;
-    &Delta;
-    &empty
-    &uarr; = up arrow
-    &larr; = left arrow
-    &darr; = down arrow
-    &rarr; = right arrow
-    &#x1F98A; = fox emoji = U+1F98A (&#x)
-
-    
+        &nbsp;
+        &lt; = < = less than
+        &gt; = > = greater than
+        &reg;
+        &copy;
+        &trade;
+        &euro;
+        &pound;
+        &yen;
+        &cent;
+        &sum;
+        &delta;
+        &Delta;
+        &empty
+        &uarr; = up arrow
+        &larr; = left arrow
+        &darr; = down arrow
+        &rarr; = right arrow
+        &#x1F98A; = fox emoji = U+1F98A (&#x)
 
 </body>
 
-
-
 </html>
-
-
 
 --- --- ---
 
@@ -169,12 +225,6 @@ h1{
     font-size: 20pt;
     color: blue;
 }
-
-
-
-
-
-
 
 --- --- ---
 
